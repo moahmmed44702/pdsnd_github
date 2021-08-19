@@ -9,7 +9,7 @@ Bikeshare
 
 
 ### Description
-The project analyzes specific data for bikeshare company.
+The project analyzes specific data for bikeshare company, which can help the company in increasing there sales eventually.
 
 ### Files used
 washington.csv
@@ -18,4 +18,4 @@ chicago.csv
 
 
 ### Credits
-http://bike-sharing.blogspot.com/
+http://bike-sharing.blogspot.com/ 
