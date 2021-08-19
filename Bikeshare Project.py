@@ -232,7 +232,7 @@ if __name__ == "__main__":
 
     
 #while True:
- #   viewData = input("Would you like to see the raw data? Type 'Yes' or 'No'.\n").lower().strip()
+ #   viewData = input("Would you like to see the raw data? Type down 'Yes' or 'No'.\n").lower().strip()
   #  if viewData == "Yes":
    #     row = 0
     #    print(.....dataframe from row 0 to 5)
