@@ -18,4 +18,4 @@ chicago.csv
 
 
 ### Credits
-http://bike-sharing.blogspot.com/ 
+http://bike-sharing.blogspot.com/ (one link only)
