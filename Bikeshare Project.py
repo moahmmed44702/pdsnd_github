@@ -221,7 +221,7 @@ def main():
                 if viewData != 'yes':
                     break
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Enter "yes" or "no" please.\n')
         if restart.lower() != 'yes':
             break
 
